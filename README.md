@@ -1,4 +1,4 @@
-# gameloggr
+# GameLoggr
 
 ## Se mantenha por dentro dos seus jogos
 
